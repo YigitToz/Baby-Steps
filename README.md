@@ -2,9 +2,9 @@ Başlangıç seviyesi Fonksiyon kodları, örnekleri ve açıklamaları
 
 Dosya detayları:
 
--Fonksiyonlara Giriş ve Fonksiyon Okuryazarlığı
+-Fonksiyonlara Giriş ve Fonksiyon Okuryazarlığı +
 
--Docstring
+-Docstring +
 
 -Fonksiyonların Statement Bölümleri
 
